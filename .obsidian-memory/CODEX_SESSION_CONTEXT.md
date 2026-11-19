@@ -1,0 +1,43 @@
+# Codex Session Context
+
+Source: ranked Obsidian knowledge graph
+Obsidianify-Version: 0.4.11
+Obsidianify-Update-Source: https://github.com/aesopscott/obsidianify
+Generated: 2026-11-19T12:06:47.835390+00:00
+Project: ExamenIAProgra3
+Task: general project session
+
+## What Was Injected
+
+This packet contains the ranked portions of the Obsidian graph that relate to this project/session. It is not the entire vault.
+
+## Ranked Memories
+
+1. design [0.1323]
+   - Source: Codex-Vault/WhatsappUI/session2026-11-18/design.md
+   - Why it may matter: ## 2026-11-18T07:45:07-04:00 - Agent: codex - Project: WhatsappUI - Target: /home/fid/Desktop/ProyProgr3/WhatsappUI - Source: completed turn - Session Log: /home/fid/.codex/sessions/2026/11/17/rollout-2026-11-17T09-08-54-01a1e99f-ed60-7b71-9a5b-edf2d16b26b0.js
+   - Signals: freshness=0.9973, evidence=0.75
+
+2. design [0.1323]
+   - Source: Codex-Vault/WhatsappUI/session2026-11-17/design.md
+   - Why it may matter: ## 2026-11-17T09:16:00-04:00 - Agent: codex - Project: WhatsappUI - Target: /home/fid/Desktop/ProyProgr3/WhatsappUI - Source: completed turn - Session Log: /home/fid/.codex/sessions/2026/11/17/rollout-2026-11-17T09-08-54-01a1e99f-ed60-7b71-9a5b-edf2d16b26b0.js
+   - Signals: freshness=0.9973, evidence=0.75
+
+3. Inicio [0.1264]
+   - Source: Codex-Vault/Inicio.md
+   - Why it may matter: # Memoria de desarrollo ## Entorno - Sistema operativo: Debian 12. - Codex CLI: 0.163.0. - Gestor de instalación de Codex: pnpm. ## Objetivos - Reutilizar conocimiento entre sesiones. - Consultar proyectos mediante grafos. - Utilizar subagentes especializados.
+   - Signals: freshness=0.9233, evidence=0.75
+
+4. design [0.1264]
+   - Source: Codex-Vault/agents/session2026-10-22/design.md
+   - Why it may matter: ## 2026-10-22T00:01:17-04:00 - Agent: codex - Project: agents - Target: /home/fid/Documents/CODE/Python/VideosConIa/agents - Source: completed turn - Session Log: /home/fid/.codex/sessions/2026/10/21/rollout-2026-10-21T23-30-33-01a161a9-1616-7993-bed5-f0c3d72b
+   - Signals: freshness=0.9233, evidence=0.75
+
+5. design [0.1264]
+   - Source: Codex-Vault/agents/session2026-10-21/design.md
+   - Why it may matter: ## 2026-10-21T23:51:10-04:00 - Agent: codex - Project: agents - Target: /home/fid/Documents/CODE/Python/VideosConIa/agents - Source: completed turn - Session Log: /home/fid/.codex/sessions/2026/10/21/rollout-2026-10-21T23-30-33-01a161a9-1616-7993-bed5-f0c3d72b
+   - Signals: freshness=0.9233, evidence=0.75
+
+## Agent Instruction
+
+Use this packet as Obsidian-derived memory for this session. If asked what was injected, summarize this packet and cite the source paths above. Do not claim to know the whole vault from this packet.
