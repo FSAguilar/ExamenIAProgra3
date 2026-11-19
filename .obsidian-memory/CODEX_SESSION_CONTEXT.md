@@ -3,7 +3,7 @@
 Source: ranked Obsidian knowledge graph
 Obsidianify-Version: 0.4.11
 Obsidianify-Update-Source: https://github.com/aesopscott/obsidianify
-Generated: 2026-11-19T12:06:47.835390+00:00
+Generated: 2026-11-19T12:12:24.115068+00:00
 Project: ExamenIAProgra3
 Task: general project session
 
